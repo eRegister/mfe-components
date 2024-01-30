@@ -1,4 +1,4 @@
-# Microfrontend Reference repository for Bahmni
+# Microfrontend Reference Components for eRegister
 
 A react micro-frontend to be loaded by Bahmni frontend for your module
 
